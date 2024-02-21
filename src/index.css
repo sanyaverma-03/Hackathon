@@ -1,0 +1,23 @@
+:root {
+    --primary-color: "white";
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+    
+  }
+
+/* .montserrat-<uniquifier> {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  } */
+   
+body{
+    background-image: linear-gradient(to right,#211728,#662D91) 
+}
+  
